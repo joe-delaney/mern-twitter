@@ -1,0 +1,19 @@
+{
+  "name": "mern-twitter",
+  "version": "1.0.0",
+  "description": "MERN stack practice project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe-delaney/mern-twitter.git"
+  },
+  "author": "Joe Delaney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joe-delaney/mern-twitter/issues"
+  },
+  "homepage": "https://github.com/joe-delaney/mern-twitter#readme"
+}
